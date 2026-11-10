@@ -1,6 +1,6 @@
 # Lead Automation [Notional]
 
-A fictional real-estate lead management demo built with React, TypeScript, Vite, and Blueprint. It runs locally without credentials, external APIs, or an AI service. Leads, agents, listings, recommendations, and interactions are simulated.
+A notional demo for demonstrating lead intake, response, and qualification automation. Real estate brokers receive leads from multiple sources (i.e. referral, RedFin, Zillow, inbound, etc.) and need a consolidated workflow on taking in the lead, qualifying the lead based on their public profile and perceived intent to purchase the property, and have recommended next steps on how to close the lead. In an ideal world, the entirety of the user's workflow is captured – i.e. users can take action via text, email, scheduling – all through the "actions center"
 
 ## Run locally
 
